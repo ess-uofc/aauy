@@ -1,9 +1,9 @@
 ---
 title: Contact us 
 type: about
-featured_image: /images/help_with_courses.jpg
+featured_image: 
 header_image: 
 ---
-test content
-
-I like it here
+dasfgssssssssssssssssssssssssssssssssssssssssssssssssssss
+sdfgasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffasdffasdfasdf
+{{< form-contact action="https://example.com"  >}}
