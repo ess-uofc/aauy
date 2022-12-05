@@ -1,16 +1,17 @@
 {{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
 {{ define "main" }}
+{{range .Site.Pages}}
 <div class="flex-l mt2 mw8 center">
     <article class="center cf pv5 ph3 ph4-ns mw7">
         <header>
             <h1 class="f1"> 
-            {{range .Site.Pages}}
+            
               <img src="{{.Params.member|absURL }}"> 
               Name:{{.Params.name}}
               Type:{{.Params.membertype}}
               Position:{{.Params.position}}
               <!-- {{.Content}} -->
-            {{end}}
+            
     
             </h1>
         </header>
@@ -20,4 +21,5 @@
         
     </article>
 </div>
+{{end}}
 {{ end }}
