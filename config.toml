@@ -24,7 +24,7 @@ DefaultContentLanguage = "en"
         weight = 1
     [[menu.main]]
         name = "About Us"
-        url = "/about/"
+        url = "/about/single/"
         weight = 2
     [[menu.main]]
         name = "Question Blog"

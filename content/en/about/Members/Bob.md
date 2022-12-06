@@ -1,6 +1,6 @@
 ---
 name: Bob
-memberType: God
+membertype: Exec
 Position: Ligma
 member: /images/members/BOB.jpeg
 people: people
