@@ -4,15 +4,25 @@
 
 .member-grid-container {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-gap: 20px;
+ 
+
 }
 
-.image-container {
+.image_resize{
+  clip-path:circle()
+}
+
+
+.member-container {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
+  height: 100%;
+
+
 }
 
 .title {
@@ -25,4 +35,8 @@
   font-size: 1.2rem;
   font-weight: 400;
   margin-bottom: 0;
+}
+
+.text-center {
+  text-align: center;
 }

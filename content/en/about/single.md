@@ -1,8 +1,6 @@
 ---
 Title: About us
 type: about
-Description: We hate school
-image: /images/hero.jpg
+Description: We <3 you guys
+image: 
 ---
-
-sadfasfsadfksajfksjfg
