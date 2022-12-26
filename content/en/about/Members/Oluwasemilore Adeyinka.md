@@ -7,8 +7,7 @@ member: /images/members/Oluwasemilore_Adeyinka.jpeg
 
 
 ---
-I am idk
-
+I look forward to providing first year engineers with the resources they need for success!
 
 
 

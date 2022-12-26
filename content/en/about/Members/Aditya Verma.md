@@ -6,5 +6,5 @@ degree: 4th Year Mechanical Engineering with MEED minor
 member: /images/members/Aditya_Verma.jpeg
 
 ---
-I am idk
+My goal is to provide the kind of guidance that I wish I got from an upper-year when I was a freshman. 
 

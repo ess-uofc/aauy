@@ -6,5 +6,5 @@ member: /images/members/Ahmed_Rana.jpeg
 people: people
 
 ---
-I am idk
+I plan to increase our in-person presence this fall. Additionally, I want to help my team members provide resourceful information to students at the University of Clagary. 
 

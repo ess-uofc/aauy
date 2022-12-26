@@ -6,7 +6,4 @@ member: /images/members/Noshin_Chowdhury.jpeg
 people: people
 
 ---
-Hi Guys I like to sugma
-
-
-
+One goal for the club would be to provide information to first-year students to make their first-year experience more enjoyable.

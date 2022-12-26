@@ -7,7 +7,7 @@ member: /images/members/Pearl_Luck.jpeg
 
 
 ---
-I am idk
+We know how stressful and confusing first year can be, and it’s our goal to provide all the help and resources you need to start a successful journey here at Schulich!
 
 
 

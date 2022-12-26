@@ -7,5 +7,4 @@ member: /images/members/Akanksha_Bhargava.jpeg
 
 
 ---
-I am idk
-
+I’m really looking forward to getting a chance to meet first year students and providing them with access to a compassionate and supportive community of upper year engineering students!

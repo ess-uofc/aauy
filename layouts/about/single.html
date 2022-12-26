@@ -16,7 +16,7 @@
     </div>
   </section> -->
 
-  <div class="flex-l mt2 mw8 center">
+  <div class="flex-l mt2 mw9 center">
     <article class="">
       <h1 class ="text-center">Executive Team</h1>      
           <div class="executive-grid-container"> 
@@ -70,30 +70,5 @@
   </article>
 </div> 
 
-<!-- <section class="service">
-  <div class="container">
-    <div class="row">
-      <div class="section-title">
-        <h2>{{.Params.executive_team.title}}</h3>
-        <p>{{.Params.executive_team.description}}</p>
-      </div>
-    </div>
-    <div class="row council-container">
-      {{range (sort (where .Site.Pages "Params.people" "people"))}}
-        <div class="col-sm-6 col-md-3">
-          <div class="service-item">
-            <img class="img-responsive img-council" src="{{ .Params.member | absURL }}">
-            <h3>{{ .Params.name | markdownify }}</h3>
-            <p>{{.Params.degree}}</p>
-            <a href="mailto:{{.Params.email}}"><i class="ion-ios-email-outline council-email"></i></a>
-            <h4>{{ .Params.position | markdownify }}</h4>
-            <p>{{ .Content }}</p>
-          </div>
-        </div>
-      {{end}}
-    </div>
-  </div>
-</section>
- -->
 
 {{ end }}

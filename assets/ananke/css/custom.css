@@ -14,6 +14,13 @@
   grid-gap: 40px; 
 }
 
+.program-grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 40px; 
+}
+
+
 
 .image_resize{
    width: 180px;
@@ -49,7 +56,7 @@
 }
 
 .font{
-  font-family:'Times New Roman', Times, serif
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
 .text-center {
@@ -63,9 +70,25 @@
   padding-bottom: 10px;
   font-size: 1.1rem;
   
-  
 }
 
+.oppBG{
+  background-color:rgb(226, 71, 71);
+  color:white;
+}
 
+.opptitle{
+  padding-top: 20px;
 
+}
+
+.oppdesc{
+  padding-bottom: 20px;
+  font-size:large
+}
+
+.oppcontnet{
+  padding-bottom: 100px;
+
+}
 
