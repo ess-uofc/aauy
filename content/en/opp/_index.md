@@ -1,5 +1,5 @@
 ---
-title: Question Blog
+title: Opportunities
 type: about
 featured_image: 
 

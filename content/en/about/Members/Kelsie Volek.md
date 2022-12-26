@@ -1,10 +1,9 @@
 ---
 name: Kelsie Volek
-Position: Marketing Commissioner
+Position: Marketing
+Rank: Commissioner Team
 degree: 4th Year Chemical Engineering with Biomedical Specialization
 member: /images/members/Kelsie_Volek.jpeg
-people: people
-
 ---
 I am idk
 

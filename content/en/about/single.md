@@ -1,6 +1,6 @@
 ---
-Title: About us
+Title: About Us
 type: about
-Description: We <3 you guys
-image: 
+Description: 2022-2023 AAUY Team
+featured_image: /images/eng_building.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 name: Kazi Muttakin
-Position: jr. Representative
+Position: Jr. Representative
 degree: 2nd Year Eletrical Engineering
 member: /images/members/Kazi_Muttakin.jpeg
 people: people
