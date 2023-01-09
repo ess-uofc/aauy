@@ -1,4 +1,4 @@
-{{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+ {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
 {{ $header_image := partial "func/GetHeaderImage.html" . }}
 {{ if $featured_image }}
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}

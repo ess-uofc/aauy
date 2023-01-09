@@ -1,0 +1,22 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+<main class ="oppBG">
+  <div class="flex-l mt2 mw9 center">
+    <article class="oppBG">
+      <h1 class ="text-center opptitle">Programs</h1>  
+      <p class ="text-center oppdesc">Our learning opportunities are available for every engineering student </p>    
+          <div class="program-grid-container"> 
+            {{range (where .Site.Pages "Params.form" "opp")}}
+            <div class="member-container text-center " >
+              <img class src="{{.Params.image|absURL }}"> 
+              <div class ="position-text font ">{{.Params.title}}</div> 
+              <div class = "oppcontnet">{{ .Content }}</div>
+            </div>
+        {{end}}
+        </div>
+    </article>
+  </div> 
+</main>
+
+
+{{end}}
