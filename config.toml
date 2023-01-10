@@ -1,4 +1,4 @@
-baseURL = 'https://aauy.essucalgary.com'
+baseURL = 'https://aauy.netlify.app'
 languageCode = 'en-us'
 title = 'Ask An Upper Year'
 theme = "ananke"
@@ -6,41 +6,41 @@ theme = "ananke"
 DefaultContentLanguage = "en"
 
 [params]
-  site_logo = "/images/banner.png"
-  custom_css = ["custom.css"]
-  cover_dimming_class = "cover-bg-red"
-  background_color_class = "bg-white"
+site_logo = "/images/banner.png"
+custom_css = ["custom.css"]
+cover_dimming_class = "cover-bg-red"
+background_color_class = "bg-white"
 
 
 [[params.ananke_socials]]
-    name = "instagram"
-    url = "https://www.instagram.com/aauy.uofc/" 
+name = "instagram"
+url = "https://www.instagram.com/aauy.uofc/"
 
 [[params.ananke_socials]]
-    name = "linkedin"
-    url ="https://www.linkedin.com/company/ask-an-upper-year/"
+name = "linkedin"
+url = "https://www.linkedin.com/company/ask-an-upper-year/"
 
 
 [languages]
-  [languages.en]
-    title = "AAUY"
-    weight = 1
-    contentDir = "content/en"
+[languages.en]
+title = "AAUY"
+weight = 1
+contentDir = "content/en"
 
 [menu]
-    [[menu.main]]
-        name = "Home"
-        url = "/"
-        weight = 1
-    [[menu.main]]
-        name = "About Us"
-        url = "/about/single/"
-        weight = 3
-    [[menu.main]]
-        name = "Opportunities"
-        url = "/opp/single"
-        weight = 2
-    [[menu.main]]
-        name = "Contact Us"
-        url = "/contact/"
-        weight = 4
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "About Us"
+url = "/about/single/"
+weight = 3
+[[menu.main]]
+name = "Opportunities"
+url = "/opp/single"
+weight = 2
+[[menu.main]]
+name = "Contact Us"
+url = "/contact/"
+weight = 4
