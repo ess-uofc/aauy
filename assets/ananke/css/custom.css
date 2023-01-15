@@ -4,34 +4,30 @@
 
 .member-grid-container {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr ;
-  grid-gap: 40px; 
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 40px;
 }
 
 .executive-grid-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-  grid-gap: 40px; 
+  grid-gap: 40px;
 }
 
 .program-grid-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 40px; 
+  grid-gap: 40px;
 }
 
-
-
-.image_resize{
-   width: 180px;
+.image_resize {
+  width: 180px;
   height: 180px;
   object-fit: cover;
   max-width: 180px !important;
   max-height: 180px !important;
   border-radius: 20px;
-  
 }
-
 
 .member-container {
   display: flex;
@@ -39,7 +35,7 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  height: 100%; 
+  height: 100%;
 }
 
 .title {
@@ -51,38 +47,33 @@
   font-size: 1rem;
   font-weight: 400;
   padding-bottom: 10px;
-  
 }
 
-.font{
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+.font {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 .text-center {
   text-align: center;
 }
 
-/* FUCK YOU MO */
-
-
-.position-text{
-  padding-top: px;
-  padding-bottom: 10px;
-}
-
-.oppBG{
-  background-color:rgb(226, 71, 71);
-  color:white;
-}
-
-.opptitle{
+.position-text {
   padding-top: 20px;
+  padding-bottom: 10px;
+  font-size: 1.1rem;
+}
 
+.oppBG {
+  background-color: rgb(226, 71, 71);
+  color: white;
+}
+
+.opptitle {
+  padding-top: 20px;
 }
 
 .oppcontnet{
   padding-bottom: 100px;
-
 }
 
 @media (max-width: 768px ){
