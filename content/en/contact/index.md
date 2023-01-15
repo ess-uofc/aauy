@@ -1,7 +1,8 @@
 ---
-title: Contact us 
-Description:  
+title: Contact Us 
+Description: 
 ---
+askanupperyear@gmail.com
 
 If you have any questions please feel free to let us know we'll get back to you as soon as possible!
 
